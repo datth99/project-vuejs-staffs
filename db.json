@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "name": "Trinh Huy Dat",
+      "email": "huydat1508@gmail.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "Huy Dat",
+      "email": "test@gmail.com",
+      "password": "abc@1123",
+      "id": 2
+    },
+    {
+      "name": "Dat",
+      "email": "test2@gmail.com",
+      "password": "abc2@1123",
+      "id": 3
+    },
+    {
+      "name": "Thanh",
+      "email": "thanh@gmail.com",
+      "password": "abc3@1123",
+      "id": 4
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 5
+    }
+  ],
+  "staffs": [
+    {
+      "name": "Trinh Huy Dat",
+      "gender": "Nam",
+      "email": "huydat1508@gmail.com",
+      "phone": "0353426199",
+      "address": "Thanh Hóa",
+      "id": 1
+    },
+    {
+      "name": "Trinh Huy Thanh",
+      "gender": "Nam",
+      "email": "thanh@gmail.com",
+      "phone": "0353426199",
+      "address": "Thanh Hóa",
+      "id": 2
+    },
+    {
+      "name": "Trịnh Huy Đạt",
+      "gender": "Nam",
+      "email": "huydat1508@gmail.com",
+      "phone": "0353426199",
+      "address": "Thanh Hóa",
+      "id": 5
+    }
+  ]
+}
